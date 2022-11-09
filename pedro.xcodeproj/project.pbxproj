@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		687CCB84291C4EE9007D394D /* managerQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687CCB83291C4EE9007D394D /* managerQuiz.swift */; };
 		68D9A96F2900A02400F58B79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68D9A96E2900A02400F58B79 /* AppDelegate.swift */; };
 		68D9A9712900A02400F58B79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68D9A9702900A02400F58B79 /* SceneDelegate.swift */; };
 		68D9A9762900A02400F58B79 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68D9A9742900A02400F58B79 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		687CCB83291C4EE9007D394D /* managerQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = managerQuiz.swift; sourceTree = "<group>"; };
 		68D9A96B2900A02400F58B79 /* pedro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pedro.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68D9A96E2900A02400F58B79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68D9A9702900A02400F58B79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				68D9A98B2900B00B00F58B79 /* modelquiz.swift */,
+				687CCB83291C4EE9007D394D /* managerQuiz.swift */,
 			);
 			path = model;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				68D9A9882900AAEA00F58B79 /* QuizViewController.swift in Sources */,
 				68D9A96F2900A02400F58B79 /* AppDelegate.swift in Sources */,
+				687CCB84291C4EE9007D394D /* managerQuiz.swift in Sources */,
 				68D9A9712900A02400F58B79 /* SceneDelegate.swift in Sources */,
 				68D9A9862900AA9800F58B79 /* MainViewController.swift in Sources */,
 				68D9A98C2900B00B00F58B79 /* modelquiz.swift in Sources */,
